@@ -1,7 +1,15 @@
 # DocumentationByTopic
 Official documentation on several topics--the real deal!
 
-## Chapter 1: Network
+## Chapter 1: Useful Tools
+* [Prometheus](https://prometheus.io/docs/introduction/overview/)
+* [Docker](https://docs.docker.com/manuals/)
+* [Bash](https://www.gnu.org/software/bash/manual/bash.html)
+* **Vim**
+  * [Help](https://vimhelp.org/)
+  * [FAQ](https://vimhelp.org/vim_faq.txt.html)
+
+## Chapter 2: Network
 * [OSI Model](https://www.iso.org/obp/ui#account/products) - file:///Users/jgolden1/Downloads/ISO_IEC_7498-1_1994(en).PDF
 * [ARP](https://datatracker.ietf.org/doc/html/rfc6747)
 * [IP](https://datatracker.ietf.org/doc/html/rfc791)
