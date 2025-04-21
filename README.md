@@ -19,6 +19,10 @@ Official documentation on several topics--the real deal!
 * [Application Layer requirements per TCP/IP Suite](https://datatracker.ietf.org/doc/html/rfc1123)
 * [ARP](https://datatracker.ietf.org/doc/html/rfc6747)
 * [IP](https://datatracker.ietf.org/doc/html/rfc791)
+* [ICMP](https://www.rfc-editor.org/rfc/rfc792.html)
+* **DNS**
+  * [Concepts and Facilities](https://www.rfc-editor.org/rfc/rfc1034.html)
+  * [Implementation and Specification](https://www.rfc-editor.org/rfc/rfc1035.html)
 * [TCP](https://www.ietf.org/rfc/rfc793.html)
 * [UDP](https://www.ietf.org/rfc/rfc768.html)
 * [DHCP](https://www.ietf.org/rfc/rfc2131.html)
