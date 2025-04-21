@@ -15,6 +15,8 @@ Official documentation on several topics--the real deal!
 * **OSI Model**
   * [First Time](https://www.iso.org/obp/ui#account/products)
   * After download - file:///Users/jgolden1/Downloads/ISO_IEC_7498-1_1994(en).PDF
+* [Link-Transport Layer requirements per TCP/IP Suite](https://datatracker.ietf.org/doc/html/rfc1122)
+* [Application Layer requirements per TCP/IP Suite](https://datatracker.ietf.org/doc/html/rfc1123)
 * [ARP](https://datatracker.ietf.org/doc/html/rfc6747)
 * [IP](https://datatracker.ietf.org/doc/html/rfc791)
 * [TCP](https://www.ietf.org/rfc/rfc793.html)
