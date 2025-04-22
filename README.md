@@ -11,19 +11,24 @@ Official documentation on several topics--the real deal!
 * [Envoy](https://www.envoyproxy.io/docs)
 * [Kubernetes](https://kubernetes.io/docs/home/)
 
-## Chapter 2: Network
+## Chapter 2: System Hardware
+* [Intel 64 and IA-32 CPU ISA's](https://www.intel.com/content/www/us/en/content-details/851056/intel-64-and-ia-32-architectures-software-developer-s-manual-volume-1-basic-architecture.html)
+
+## Chapter 3: Network
 * **OSI Model**
   * [First Time](https://www.iso.org/obp/ui#account/products)
   * After download - file:///Users/jgolden1/Downloads/ISO_IEC_7498-1_1994(en).PDF
 * [Link-Transport Layer requirements per TCP/IP Suite](https://datatracker.ietf.org/doc/html/rfc1122)
 * [Application Layer requirements per TCP/IP Suite](https://datatracker.ietf.org/doc/html/rfc1123)
+* [Switches](https://datatracker.ietf.org/doc/html/rfc2889)
+* [Routers (IPv4)](https://datatracker.ietf.org/doc/html/rfc1812)
 * [ARP](https://datatracker.ietf.org/doc/html/rfc6747)
 * [IP](https://datatracker.ietf.org/doc/html/rfc791)
 * [ICMP](https://www.rfc-editor.org/rfc/rfc792.html)
 * **DNS**
   * [Concepts and Facilities](https://www.rfc-editor.org/rfc/rfc1034.html)
   * [Implementation and Specification](https://www.rfc-editor.org/rfc/rfc1035.html)
-* [TCP](https://www.ietf.org/rfc/rfc793.html)
+* [TCP](https://datatracker.ietf.org/doc/html/rfc9293)
 * [UDP](https://www.ietf.org/rfc/rfc768.html)
 * [DHCP](https://www.ietf.org/rfc/rfc2131.html)
 * [SSH](https://www.rfc-editor.org/rfc/rfc4251.html)
