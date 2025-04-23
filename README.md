@@ -11,10 +11,7 @@ Official documentation on several topics--the real deal!
 * [Envoy](https://www.envoyproxy.io/docs)
 * [Kubernetes](https://kubernetes.io/docs/home/)
 
-## Chapter 2: System Hardware
-* [Intel 64 and IA-32 CPU ISA's](https://www.intel.com/content/www/us/en/content-details/851056/intel-64-and-ia-32-architectures-software-developer-s-manual-volume-1-basic-architecture.html)
-
-## Chapter 3: Network
+## Chapter 2: Network
 * **OSI Model**
   * [First Time](https://www.iso.org/obp/ui#account/products)
   * After download - file:///Users/jgolden1/Downloads/ISO_IEC_7498-1_1994(en).PDF
@@ -42,3 +39,7 @@ Official documentation on several topics--the real deal!
 * [Wikipedia's Shortened RFC list](https://en.wikipedia.org/wiki/List_of_RFCs)
 * [Complete list of RFC's](https://www.ietf.org/download/rfc-index.txt)
 * [Complete list of RFC-defined Internet Standards](https://www.rfc-editor.org/standards)
+
+## Chapter 3: System Hardware
+* [Intel 64 and IA-32 CPU ISA's](https://www.intel.com/content/www/us/en/content-details/851056/intel-64-and-ia-32-architectures-software-developer-s-manual-volume-1-basic-architecture.html)
+
