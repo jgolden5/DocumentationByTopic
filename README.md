@@ -7,7 +7,9 @@ Official documentation on several topics--the real deal!
 * **Vim**
   * [Help](https://vimhelp.org/)
   * [FAQ](https://vimhelp.org/vim_faq.txt.html)
-* [Prometheus](https://prometheus.io/docs/introduction/overview/)
+* **Prometheus**
+  * [Documentation](https://prometheus.io/docs/introduction/overview/)
+  * [Node Exporter textfile script examples](https://github.com/prometheus-community/node-exporter-textfile-collector-scripts)
 * [Envoy](https://www.envoyproxy.io/docs)
 * [Kubernetes](https://kubernetes.io/docs/home/)
 
