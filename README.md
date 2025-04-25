@@ -28,6 +28,7 @@ Official documentation on several topics--the real deal!
 * [TCP](https://datatracker.ietf.org/doc/html/rfc9293)
 * [UDP](https://www.ietf.org/rfc/rfc768.html)
 * [DHCP](https://www.ietf.org/rfc/rfc2131.html)
+* [URI's](https://datatracker.ietf.org/doc/html/rfc3986)
 * [SSH](https://www.rfc-editor.org/rfc/rfc4251.html)
 * [HTTP/1.1](https://www.rfc-editor.org/rfc/rfc9112.html)
 * [HTTPS](https://datatracker.ietf.org/doc/html/rfc2818)
