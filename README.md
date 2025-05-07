@@ -2,18 +2,36 @@
 Official documentation on several topics--the real deal!
 
 ## Chapter 1: Useful Tools
-* [Docker](https://docs.docker.com/manuals/)
-* [Bash](https://www.gnu.org/software/bash/manual/bash.html)
 * **Vim**
   * [Help](https://vimhelp.org/)
   * [FAQ](https://vimhelp.org/vim_faq.txt.html)
+* [Node.js](https://nodejs.org/docs/latest/api/)
+* [Docker](https://docs.docker.com/manuals/)
 * **Prometheus**
   * [Documentation](https://prometheus.io/docs/introduction/overview/)
   * [Node Exporter textfile script examples](https://github.com/prometheus-community/node-exporter-textfile-collector-scripts)
 * [Envoy](https://www.envoyproxy.io/docs)
 * [Kubernetes](https://kubernetes.io/docs/home/)
 
-## Chapter 2: Network
+## Chapter 2: Programming/Markup Languages
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* JavaScript
+  * [MDN docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  * [javascript.info](https://javascript.info/)
+* [Bash](https://www.gnu.org/software/bash/manual/bash.html)
+* [Java](https://docs.oracle.com/en/java/javase/)
+* Haskell
+  * [Official](https://www.haskell.org/)
+  * [Learn you a haskell](https://learnyouahaskell.com/chapters)
+* [Prolog](https://www.swi-prolog.org/pldoc/doc_for?object=root)
+* [Go](https://go.dev/doc/)
+* C/C++
+  * [C GNU reference](https://www.gnu.org/software/libc/manual/html_mono/libc.html)
+  * [C reference table](https://en.cppreference.com/w/c/language)
+  * [C++ reference table](https://en.cppreference.com/w/cpp/language)
+
+## Chapter 3: Network
 * **OSI Model**
   * [First Time](https://www.iso.org/obp/ui#account/products)
   * After download - file:///Users/jgolden1/Downloads/ISO_IEC_7498-1_1994(en).PDF
