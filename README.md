@@ -63,6 +63,6 @@ Official documentation on several topics--the real deal!
 * [Complete list of RFC's](https://www.ietf.org/download/rfc-index.txt)
 * [Complete list of RFC-defined Internet Standards](https://www.rfc-editor.org/standards)
 
-## Chapter 3: System Hardware
+## Chapter 4: System Hardware
 * [Intel 64 and IA-32 CPU ISA's](https://www.intel.com/content/www/us/en/content-details/851056/intel-64-and-ia-32-architectures-software-developer-s-manual-volume-1-basic-architecture.html)
 
