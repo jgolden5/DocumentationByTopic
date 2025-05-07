@@ -14,7 +14,9 @@ Official documentation on several topics--the real deal!
 * [Kubernetes](https://kubernetes.io/docs/home/)
 
 ## Chapter 2: Programming/Markup Languages
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* HTML
+  * [Mozilla docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  * [Original HTML RFC](https://datatracker.ietf.org/doc/html/rfc1866)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * JavaScript
   * [MDN docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
