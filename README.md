@@ -32,7 +32,10 @@ Official documentation on several topics--the real deal!
   * [C GNU reference](https://www.gnu.org/software/libc/manual/html_mono/libc.html)
   * [C reference table](https://en.cppreference.com/w/c/language)
   * [C++ reference table](https://en.cppreference.com/w/cpp/language)
-* [ARM Assembly](https://developer.arm.com/documentation/107829/0201/Assembly-language-basics)
+* ARM Assembly
+* [Basics](https://developer.arm.com/documentation/107829/0201/Assembly-language-basics)
+* [ARM64 Registers](https://developer.arm.com/documentation/102374/0102/Registers-in-AArch64---general-purpose-registers)
+* [ARM64 syscalls](https://arm64.syscall.sh/)
 
 ## Chapter 3: Network
 * **OSI Model**
