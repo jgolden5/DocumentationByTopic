@@ -36,6 +36,7 @@ Official documentation on several topics--the real deal!
 * [Basics](https://developer.arm.com/documentation/107829/0201/Assembly-language-basics)
 * [ARM64 Registers](https://developer.arm.com/documentation/102374/0102/Registers-in-AArch64---general-purpose-registers)
 * [ARM64 syscalls](https://arm64.syscall.sh/)
+* [LazyVim (most popular NeoVim distro)](https://lazyvim-ambitious-devs.phillips.codes/course)
 
 ## Chapter 3: Network
 * **OSI Model**
