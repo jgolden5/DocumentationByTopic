@@ -71,3 +71,5 @@ Official documentation on several topics--the real deal!
 ## Chapter 4: System Hardware
 * [Intel 64 and IA-32 CPU ISA's](https://www.intel.com/content/www/us/en/content-details/851056/intel-64-and-ia-32-architectures-software-developer-s-manual-volume-1-basic-architecture.html)
 
+## Chapter 5: Miscellaneous
+* [Unicode fundamentals all devs should know](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
