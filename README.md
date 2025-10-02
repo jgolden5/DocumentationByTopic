@@ -39,9 +39,7 @@ Official documentation on several topics--the real deal!
 * [LazyVim (most popular NeoVim distro)](https://lazyvim-ambitious-devs.phillips.codes/course)
 
 ## Chapter 3: Network
-* **OSI Model**
-  * [First Time](https://www.iso.org/obp/ui#account/products)
-  * After download - file:///Users/jgolden1/Downloads/ISO_IEC_7498-1_1994(en).PDF
+* **[OSI Model](https://www.iso.org/obp/ui#account/products)**
 * [Link-Transport Layer requirements per TCP/IP Suite](https://datatracker.ietf.org/doc/html/rfc1122)
 * [Application Layer requirements per TCP/IP Suite](https://datatracker.ietf.org/doc/html/rfc1123)
 * [Switches](https://datatracker.ietf.org/doc/html/rfc2889)
