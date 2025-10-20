@@ -77,6 +77,7 @@ Official documentation on several topics--the real deal!
 ## Chapter 6: Development Best Practices
 
 ## Chapter 7: Software Engineering Training Resources
+* [Exercism](https://exercism.org/) (helpful resource for learning widely used programming languages in an interesting way for free)
 
 ## Chapter 8: Hardware
 * [Intel 64 and IA-32 CPU ISA's](https://www.intel.com/content/www/us/en/content-details/851056/intel-64-and-ia-32-architectures-software-developer-s-manual-volume-1-basic-architecture.html)
