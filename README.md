@@ -1,17 +1,11 @@
 # DocumentationByTopic
 Official documentation on several topics--the real deal!
 
-## Chapter 1: Useful Tools (non-languages/frameworks
+## Chapter 1: Development Tools
 * **Vim**
   * [Help](https://vimhelp.org/)
   * [FAQ](https://vimhelp.org/vim_faq.txt.html)
 * [Node.js](https://nodejs.org/docs/latest/api/)
-* [Docker](https://docs.docker.com/manuals/)
-* **Prometheus**
-  * [Documentation](https://prometheus.io/docs/introduction/overview/)
-  * [Node Exporter textfile script examples](https://github.com/prometheus-community/node-exporter-textfile-collector-scripts)
-* [Envoy](https://www.envoyproxy.io/docs)
-* [Kubernetes](https://kubernetes.io/docs/home/)
 
 ## Chapter 2: Programming/Markup Languages
 * HTML
@@ -64,14 +58,28 @@ Official documentation on several topics--the real deal!
 * [HTTP/2](https://www.rfc-editor.org/rfc/rfc9113.html)
 * [QUIC](https://www.rfc-editor.org/rfc/rfc9000.html)
 * [HTTP/3](https://www.rfc-editor.org/rfc/rfc9114.html)
+* [Envoy](https://www.envoyproxy.io/docs)
 
 ### Other Useful Network Links
 * [Wikipedia's Shortened RFC list](https://en.wikipedia.org/wiki/List_of_RFCs)
 * [Complete list of RFC's](https://www.ietf.org/download/rfc-index.txt)
 * [Complete list of RFC-defined Internet Standards](https://www.rfc-editor.org/standards)
 
-## Chapter 4: System Hardware
+## Chapter 4: Systems
+* [Docker](https://docs.docker.com/manuals/)
+* [Kubernetes](https://kubernetes.io/docs/home/)
+
+## Chapter 5: Databases
+* **Prometheus**
+  * [Documentation](https://prometheus.io/docs/introduction/overview/)
+  * [Node Exporter textfile script examples](https://github.com/prometheus-community/node-exporter-textfile-collector-scripts)
+ 
+## Chapter 6: Development Best Practices
+
+## Chapter 7: Software Engineering Training Resources
+
+## Chapter 8: Hardware
 * [Intel 64 and IA-32 CPU ISA's](https://www.intel.com/content/www/us/en/content-details/851056/intel-64-and-ia-32-architectures-software-developer-s-manual-volume-1-basic-architecture.html)
 
-## Chapter 5: Miscellaneous
+## Chapter 9: Miscellaneous
 * [Unicode fundamentals all devs should know](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
