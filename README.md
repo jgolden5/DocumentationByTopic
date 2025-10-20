@@ -1,7 +1,7 @@
 # DocumentationByTopic
 Official documentation on several topics--the real deal!
 
-## Chapter 1: Useful Tools
+## Chapter 1: Useful Tools (non-languages/frameworks
 * **Vim**
   * [Help](https://vimhelp.org/)
   * [FAQ](https://vimhelp.org/vim_faq.txt.html)
