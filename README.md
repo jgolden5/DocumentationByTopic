@@ -21,6 +21,10 @@ Official documentation on several topics--the real deal!
 * JavaScript
   * [MDN docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   * [javascript.info](https://javascript.info/)
+* React Native
+  * [official docs](https://reactnative.dev/docs/)
+  * [devdocs](https://devdocs.io/react_native/) (much deeper)
+  * [awesome list react native](https://github.com/jondot/awesome-react-native) (large collection of other React Native resources)
 * [Bash](https://www.gnu.org/software/bash/manual/bash.html)
 * [Java](https://docs.oracle.com/en/java/javase/)
 * Haskell
