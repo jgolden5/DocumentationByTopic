@@ -1,6 +1,3 @@
-add database chapter to documentation (miscellaneous -> chapter 6, databases -> chapter 5)
-change chapter 1 to "Development Tools" and move prometheus to chapter 5 (databases)
 add general SQL to documentation
 add PostgreSQL to documentation
-add chapter for general software engineering best practices (best practices -> chapter 6, miscellaneous -> chapter 7)
-add chapter for software engineering training (training -> chapter 7, miscellaneous -> chapter 8)
+add my favorite courses on bug bounty hunting
