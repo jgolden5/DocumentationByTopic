@@ -74,13 +74,15 @@ Official documentation on several topics--the real deal!
   * [Documentation](https://prometheus.io/docs/introduction/overview/)
   * [Node Exporter textfile script examples](https://github.com/prometheus-community/node-exporter-textfile-collector-scripts)
  
-## Chapter 6: Development Best Practices
-
-## Chapter 7: Software Engineering Training Resources
-* [Exercism](https://exercism.org/) (helpful resource for learning widely used programming languages in an interesting way for free)
-
-## Chapter 8: Hardware
+## Chapter 6: Hardware
 * [Intel 64 and IA-32 CPU ISA's](https://www.intel.com/content/www/us/en/content-details/851056/intel-64-and-ia-32-architectures-software-developer-s-manual-volume-1-basic-architecture.html)
+
+## Chapter 7: Cybersecurity
+* [OWASP cheatsheets series for common hacks](https://cheatsheetseries.owasp.org/index.html)
+* [OWASP top 10 2021](https://owasp.org/www-project-top-ten/) (next one comes out Nov 2025, very soon)
+
+## Chapter 8: Software Engineering Best Practices and Training Resources
+* [Exercism](https://exercism.org/) (helpful resource for learning widely used programming languages in an interesting way for free)
 
 ## Chapter 9: Miscellaneous
 * [Unicode fundamentals all devs should know](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
