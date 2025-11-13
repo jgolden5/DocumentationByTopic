@@ -84,5 +84,11 @@ Official documentation on several topics--the real deal!
 ## Chapter 8: Software Engineering Best Practices and Training Resources
 * [Exercism](https://exercism.org/) (helpful resource for learning widely used programming languages in an interesting way for free)
 
-## Chapter 9: Miscellaneous
+## Chapter 9: Job Applications
+### Job application guides for big companies:
+* [Google](https://www.google.com/about/careers/applications/how-we-hire/)
+* [Amazon](https://hiring.amazon.com/hiring-process/application-guide)
+* [Apple](https://www.apple.com/careers/us/)
+
+## Chapter 10: Miscellaneous
 * [Unicode fundamentals all devs should know](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
