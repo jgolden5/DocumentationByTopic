@@ -80,6 +80,7 @@ Official documentation on several topics--the real deal!
 ## Chapter 7: Cybersecurity
 * [OWASP cheatsheets series for common hacks](https://cheatsheetseries.owasp.org/index.html)
 * [OWASP top 10 2021](https://owasp.org/www-project-top-ten/) (next one comes out Nov 2025, very soon)
+* [Understand everything](https://www.bugcrowd.com/blog/hacker-spotlight-amr/) (bugcrowd blog bug bounty hunters)
 
 ## Chapter 8: Software Engineering Best Practices and Training Resources
 * [Exercism](https://exercism.org/) (helpful resource for learning widely used programming languages in an interesting way for free)
