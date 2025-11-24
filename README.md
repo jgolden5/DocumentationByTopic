@@ -69,23 +69,26 @@ Official documentation on several topics--the real deal!
 * [Docker](https://docs.docker.com/manuals/)
 * [Kubernetes](https://kubernetes.io/docs/home/)
 
-## Chapter 5: Databases
+## Chapter 5: API's
+* [ChatGPT (with Postman)](https://quickstarts.postman.com/guide/chatgpt/index.html#0)
+
+## Chapter 6: Databases
 * **Prometheus**
   * [Documentation](https://prometheus.io/docs/introduction/overview/)
   * [Node Exporter textfile script examples](https://github.com/prometheus-community/node-exporter-textfile-collector-scripts)
  
-## Chapter 6: Hardware
+## Chapter 7: Hardware
 * [Intel 64 and IA-32 CPU ISA's](https://www.intel.com/content/www/us/en/content-details/851056/intel-64-and-ia-32-architectures-software-developer-s-manual-volume-1-basic-architecture.html)
 
-## Chapter 7: Cybersecurity
+## Chapter 8: Cybersecurity
 * [OWASP cheatsheets series for common hacks](https://cheatsheetseries.owasp.org/index.html)
 * [OWASP top 10 2021](https://owasp.org/www-project-top-ten/) (next one comes out Nov 2025, very soon)
 * [Understand everything](https://www.bugcrowd.com/blog/hacker-spotlight-amr/) (bugcrowd blog bug bounty hunters)
 
-## Chapter 8: Software Engineering Best Practices and Training Resources
+## Chapter 9: Software Engineering Best Practices and Training Resources
 * [Exercism](https://exercism.org/) (helpful resource for learning widely used programming languages in an interesting way for free)
 
-## Chapter 9: Job Applications
+## Chapter 10: Job Applications
 ### Job application guides for big companies:
 * [Google](https://www.google.com/about/careers/applications/how-we-hire/)
 * [Amazon](https://hiring.amazon.com/hiring-process/application-guide)
