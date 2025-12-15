@@ -93,6 +93,7 @@ Official documentation on several topics--the real deal!
 * [Google](https://www.google.com/about/careers/applications/how-we-hire/)
 * [Amazon](https://hiring.amazon.com/hiring-process/application-guide)
 * [Apple](https://www.apple.com/careers/us/)
+* [CV Compiler](https://cvcompiler.com/) (Free resume-helper website)
 
 ## Chapter 10: Miscellaneous
 * [Unicode fundamentals all devs should know](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
