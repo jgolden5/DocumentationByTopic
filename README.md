@@ -95,5 +95,6 @@ Official documentation on several topics--the real deal!
 * [Apple](https://www.apple.com/careers/us/)
 * [CV Compiler](https://cvcompiler.com/) (Free resume-helper website)
 
-## Chapter 10: Miscellaneous
+## Chapter 11: Miscellaneous
 * [Unicode fundamentals all devs should know](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+* [Learning how to learn free course](https://www.coursera.org/learn/learning-how-to-learn?msockid=15e2a4958db263fe26c1b28e8ccd6226) (recommended by Leon from Programming Podcast)
