@@ -96,5 +96,25 @@ Official documentation on several topics--the real deal!
 * [Apple](https://www.apple.com/careers/us/)
 * [CV Compiler](https://cvcompiler.com/) (Free resume-helper website)
 
-## Chapter 11: Miscellaneous
+## Chapter 11: Blogs
+* **General**
+  * [dzone.com](https://dzone.com/)
+  * [Juila Evans' blog](jvns.ca)
+  * [martinfowler.com](https://martinfowler.com/)
+* **Go**
+  * [official Go blog](https://go.dev/blog/)
+  * [Dave Cheney (random dude with tons of content)](https://dave.cheney.net/)
+  * [Ardan labs (detailed technical blog)](https://www.ardanlabs.com/blog/)
+* **Java**
+  * [oracle's official Java news updates](inside.java)
+  * [baeldung (everything Java-related. Weekly reviews, latest articles, and Java language tutorial-like things)](https://www.baeldung.com/)
+  * [spring.io website (for Spring Boot)](https://spring.io/blog/category/engineering)
+* **Bug bounty**
+  * [Hackerone](https://hackerone.com)
+  * [Bugcrowd](https://bugcrowd.com)
+  * [Intigri](intigriti.com/blog)
+  * [Infosec writeups](infosecwriteups.com)
+  * [Pentester land](https://pentester.land/blog/)
+
+## Chapter 12: Miscellaneous
 * [Unicode fundamentals all devs should know](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
