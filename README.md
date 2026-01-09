@@ -59,6 +59,7 @@ Official documentation on several topics--the real deal!
 * [QUIC](https://www.rfc-editor.org/rfc/rfc9000.html)
 * [HTTP/3](https://www.rfc-editor.org/rfc/rfc9114.html)
 * [Envoy](https://www.envoyproxy.io/docs)
+* [cURL](everything.curl.dev)
 
 ### Other Useful Network Links
 * [Wikipedia's Shortened RFC list](https://en.wikipedia.org/wiki/List_of_RFCs)
