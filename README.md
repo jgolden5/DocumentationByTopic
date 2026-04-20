@@ -86,6 +86,7 @@ Official documentation on several topics--the real deal!
 * [OWASP top 10 2021](https://owasp.org/www-project-top-ten/) (next one comes out Nov 2025, very soon)
 * [Understand everything](https://www.bugcrowd.com/blog/hacker-spotlight-amr/) (bugcrowd blog bug bounty hunters)
 * [CVE Details](https://www.cvedetails.com/)
+* [All about OAuth 2.0](https://oauth.net/2/) (A collection of links on the subject)
 
 ## Chapter 9: Software Engineering Best Practices and Training Resources
 * [Exercism](https://exercism.org/) (helpful resource for learning widely used programming languages in an interesting way for free)
